@@ -6,6 +6,6 @@
 </head>
 <body>
 <h1><%= "欢迎您" %></h1>
-<a href="hello">click here</a>
+<a href="generateCode">click here</a>
 </body>
 </html>
